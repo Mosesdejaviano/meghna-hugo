@@ -1,29 +1,44 @@
 ---
 service:
-  enable: false
+  enable: true
   title: Our Services
   service_item:
-  - name: WordPress Theme
-    icon: ti-world
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-  - name: Responsive Design
-    icon: ti-layout
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-  - name: Media &amp; Advertisement
-    icon: ti-blackboard
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-  - name: Graphic Design
-    icon: ti-palette
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-  - name: Apps Development
-    icon: ti-package
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-  - name: Networking
-    icon: ti-pulse
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+  - name: Transportation Provided
+    icon: ti-car
+    content: |-
+      Transportation is provided for kids.
+      Walking, bicycling, shared rides, and bus transit can assist minimize transportation's environmental effect and, as a result, enhance students' health. Safe Routes to School programs may be particularly beneficial for enhancing safety on school campuses and in the immediate vicinity of schools.
+  - name: IDHS Child Care Assistance Program(CCAP) Accepted
+    icon: ti-cup
+    content: We collaborate with the Illinois Department of Human Services (IDHS)
+      Child Care Assistance Program (CCAP), which helps families locate and choose
+      the finest child care for their children by providing information and resources..
+  - name: 'Open Enrollment for E-learners '
+    icon: ti-thought
+    content: We make a learning environment for your youngsters. We set a timetable
+      for ourselves and stick to it. We limit the amount of distractions for your
+      children. We gave them lots of opportunities to exercise. We examine which elements
+      of accessibility will benefit your child. They have access to their teachers.
+  - name: 'Successfully practicing COVID 19 safety guidelines '
+    icon: ti-support
+    content: We rely on COVID-19 guidelines from reputable organizations such as UNICEF
+      and WHO, as well as health authorities. We keep up to date on the situation
+      and follow the advice of public health specialists. We urge our kids to develop
+      the habit of washing their hands on a regular basis and/or using hand sanitizers
+      at critical times.
+  - name: Before/After School Programs!
+    icon: ti-user
+    content: Afterschool programs may help children develop socially, emotionally,
+      cognitively, and academically, as well as minimize hazardous behaviors, enhance
+      physical health, and provide a secure and supportive atmosphere.
+  - name: Breakfast,Lunch and Snacks included
+    icon: ti-plus
+    content: The school meal is estimated to meet around one-third of a child's daily
+      nutritional requirements. The National Nutrition Council's nutritional standards
+      for schools are followed by school catering.
+  - name: 'Family engagements events And More!!   '
+    icon: ti-announcement
+    content: 'Collaboration, cultural competency, and a focus on enhancing children''s
+      learning characterize high-impact family and community involvement. High-impact
+      tactics include the following: Home visits, neighborhood walks, and class sessions
+      help to foster personal ties, respect, and mutual understanding among families.'
