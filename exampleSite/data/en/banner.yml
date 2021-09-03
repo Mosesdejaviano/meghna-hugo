@@ -5,9 +5,7 @@ banner:
   bg_image: images/villagehousefront1.png
   icon: ''
   title: IT TAKES A VILLAGE TO RAISE OUR CHILDREN!
-  content: 'ACCEPTING APPLICATIONS</br>REGISTER NOW!</br>LIMITED SLOTS AVAILABLE!
-
-'
+  content: "\n"
   button:
     enable: false
     label: Explore Us
