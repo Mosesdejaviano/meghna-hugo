@@ -1,9 +1,9 @@
 ---
 cta:
   enable: true
-  bg_image: images/backgrounds/bg-white-wall.jpg
-  bg_image_webp: images/backgrounds/bg-white-wall.webp
-  title: ACCEPTING APPLICATIONS!!</br>REGISTER NOW!</br>LIMITED SLOTS AVAILABLE!
+  bg_image: images/villagecentermockup.png
+  bg_image_webp: ''
+  title: 'Schedule your appointment today: 773-824-6108'
   content: ''
   button:
     enable: false
