@@ -1,8 +1,8 @@
 ---
 feature:
   enable: true
-  image: images/villagecentermockup.png
+  image: images/villagehouseback.png
   image_webp: ''
-  title: ACCEPTING APPLICATIONS</br>REGISTER NOW!</br>LIMITED SLOTS AVAILABLE!
+  title: ACCEPTING  APPLICATIONS
   content: ''
   feature_item: []
