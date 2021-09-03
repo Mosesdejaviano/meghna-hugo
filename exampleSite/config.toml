@@ -94,10 +94,10 @@ post_share = true
 enable = true
 expire_days = 2
 [params.map]
-enable = false
+enable = true
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"
-map_latitude = "51.5223477"
-map_longitude = "-0.1622023"
+map_latitude = "47.61460"
+map_longitude = "-122.31704"
 map_marker = "images/marker.png"
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
@@ -124,8 +124,8 @@ link = "plugins/lazy-load/lozad.min.js"
 [[params.plugins.js]]
 link = "plugins/google-map/map.js"
 [params.preloader]
-enable = false
-preloader = "images/logo.png"
+enable = true
+preloader = "images/villagecentermockup.png"
 [[params.social]]
 icon = "ti-facebook"
 link = "#"
