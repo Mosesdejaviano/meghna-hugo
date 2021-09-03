@@ -5,19 +5,31 @@ about:
   about_item:
   - icon: ti-announcement
     title: 'Family engagements events And More!!               '
-    content: ''
+    content: |2-
+
+      Collaboration, cultural competency, and a focus on enhancing children's learning characterize high-impact family and community involvement. High-impact tactics include the following: Home visits, neighborhood walks, and class sessions help to foster personal ties, respect, and mutual understanding among families.
   - icon: ti-car
     title: Transportation Provided
-    content: ''
+    content: |-
+      Transportation is provided for kids.
+      Walking, bicycling, shared rides, and bus transit can assist minimize transportation's environmental effect and, as a result, enhance students' health. Safe Routes to School programs may be particularly beneficial for enhancing safety on school campuses and in the immediate vicinity of schools.
   - icon: ti-plus
     title: Breakfast,Lunch and Snacks included
-    content: ''
+    content: The school meal is estimated to meet around one-third of a child's daily
+      nutritional requirements. The National Nutrition Council's nutritional standards
+      for schools are followed by school catering.
   - icon: ti-user
     title: Before/After School Programs!
-    content: ''
+    content: Afterschool programs may help children develop socially, emotionally,
+      cognitively, and academically, as well as minimize hazardous behaviors, enhance
+      physical health, and provide a secure and supportive atmosphere.
   - icon: ti-support
     title: 'Successfully practicing COVID 19 safety guidelines '
-    content: ''
+    content: We rely on COVID-19 guidelines from reputable organizations such as UNICEF
+      and WHO, as well as health authorities. We keep up to date on the situation
+      and follow the advice of public health specialists. We urge our kids to develop
+      the habit of washing their hands on a regular basis and/or using hand sanitizers
+      at critical times.
   - icon: ti-cup
     title: IDHS Child Care Assistance Program(CCAP) Accepted
     content: ''
