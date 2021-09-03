@@ -85,13 +85,13 @@ name = "themefisher"
 url = "https://themefisher.com/"
 weight = 8
 [params]
-author = "Themefisher"
-description = "Responsive Multipurpose Parallax Hugo Template"
+author = ""
+description = "IT TAKES A VILLAGE TO RAISE OUR CHILDREN!"
 google_analytics_id = ""
 logo = "images/villagecenterlogo.png"
 post_share = true
 [params.cookies]
-enable = false
+enable = true
 expire_days = 2
 [params.map]
 enable = false
