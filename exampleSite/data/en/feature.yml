@@ -3,6 +3,6 @@ feature:
   enable: true
   image: images/villagehouseback.png
   image_webp: ''
-  title: "      ACCEPTING  APPLICATIONS NOW!!!!"
+  title: ACCEPTING  APPLICATIONS NOW!!
   content: We are currently receiving applications now. There are limited slots available.
   feature_item: []
